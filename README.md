@@ -6,7 +6,7 @@
 
 ## Steps
 
-In Windows, Open Powershell. Press Start Button > Type: Powershell > Press Enter
+In Windows, Open Powershell (Press Start Button > Type: Powershell > Press Enter)
 
 1. `dotnet new webapp -o EmmaWebsite`
 2. `dotnet new gitignore`
